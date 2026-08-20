@@ -14,8 +14,8 @@
     }
   ],
   "licenses": ["MIT"],
-  "frameworks": ["arduino", "espidf"],
-  "platforms": ["espressif32"],
+  "frameworks": "*",
+  "platforms": "*",
   "build": {
     "flags": [
       "-std=gnu++17"
