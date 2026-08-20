@@ -1,0 +1,25 @@
+{
+  "name": "ESP32_magic_enum",
+  "version": "0.9.8",
+  "description": "A header-only port or wrapper of magic_enum for ESP32, providing static reflection for enums in C++17.",
+  "keywords": "esp32, magic_enum, enum, reflection, cplusplus, header-only",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com"
+  },
+  "authors": [
+    {
+      "name": "synapse2",
+      "maintainer": true
+    }
+  ],
+  "licenses": ["MIT"],
+  "frameworks": ["arduino", "espidf"],
+  "platforms": ["espressif32"],
+  "build": {
+    "flags": [
+      "-std=gnu++17"
+    ],
+    "libLDFMode": "deep"
+  }
+}
