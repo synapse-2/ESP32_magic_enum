@@ -19,7 +19,6 @@
   "build": {
     "flags": [
       "-std=gnu++17"
-    ],
-    "libLDFMode": "deep"
+    ]
   }
 }
