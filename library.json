@@ -5,7 +5,7 @@
   "keywords": "esp32, magic_enum, enum, reflection, cplusplus, header-only",
   "repository": {
     "type": "git",
-    "url": "https://github.com"
+    "url": "https://github.com/synapse-2/ESP32_magic_enum"
   },
   "authors": [
     {
