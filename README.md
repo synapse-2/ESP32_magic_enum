@@ -11,6 +11,17 @@
 
 Header-only C++17 library provides static reflection for enums, work with any enum type without any macro or boilerplate code.
 
+## Installation
+
+Add the following lines to Platformio.ini
+
+```text
+lib_deps = 
+	https://github.com/synapse-2/esp-nimble-cpp.git
+
+```
+---
+
 ## Documentation
 
 * [Reference](doc/reference.md)
